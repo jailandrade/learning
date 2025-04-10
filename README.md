@@ -22,10 +22,6 @@ A challenge to do 100 websites in 100 days. Restarting 10/04/2025
 
 A way to learn or learning again programming languages solving interesting problems
 
-## Niagara
-
-A new way to think in Cascades
-
 ## JardinDeCSS
 
 Inspired by CSS Garden: One layout, differente CSS files for this layout
