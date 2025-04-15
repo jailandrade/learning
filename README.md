@@ -10,13 +10,25 @@ Inspired by Pea.rs it's a collection of guidelines for UI components using only 
 
 A collection of all the interviews exercises and challenges I have made to get a job as a software developer
 
+## WebPerformance
+
+Thing I'm learning about web performance
+
+## JAMStack JAM
+
+What is JAMStack nowdays and what can we do with this
+
+## UI
+
+What if I create my own ui library
+
 ## Codewars
 
 All the exercises I have resolved in codewars using many languages
 
 ## 100days100websites
 
-A challenge to do 100 websites in 100 days. Restarting 10/04/2025
+A challenge to do 100 websites in 100 days.
 
 ## 99 problems
 
